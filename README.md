@@ -1,0 +1,3 @@
+- 👋 Hi, I’m AmirMahdi
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning React js
